@@ -1,0 +1,3 @@
+## Steps
+Create a folder ---> in the terminal navigate to that folder(cd [workshop directory]) ---> git init --->
+---> git branch [branch name]
